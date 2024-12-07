@@ -1,0 +1,21 @@
+# Ignore Android Studio files
+.android/
+
+# Ignore VS Code files
+.vscode/
+
+# Ignore system files
+*.log
+*.bak
+*.swp
+# Ignore system files
+.android/
+.bash_history
+.gitconfig
+.vscode/
+.gitignore
+OneDrive/
+AppData/
+3D Objects/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
